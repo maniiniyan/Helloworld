@@ -1,0 +1,4 @@
+
+
+#!/bin/sh
+curl --user <admin>:<113d4071fb89fafb05fe2a3a48f5f6e06e> http://localhost:8090/jenkins/job/PetClinic_Deploy/build?token=MyAuthToken
